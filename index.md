@@ -1,4 +1,6 @@
-# this a decription of storage duration 
+# this a decription of storage duration    
+![banner](https://cdn.pixabay.com/photo/2021/02/28/11/00/moe-6056901_640.png)
+
 
 在 C++ 中，存储期限（storage duration）主要有以下几种：
 
