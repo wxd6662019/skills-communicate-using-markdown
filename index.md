@@ -56,5 +56,6 @@ int main() {
 
 在这个例子中，`p` 指向动态分配的内存，生命周期由程序员控制，需要手动释放。 
 ``` c
-extern int global_var; //变量的声明     
+extern int global_var; //变量的声明      
 ```
+- [x] 当使用static修饰变量时 会将作用域限制在当前文件 
